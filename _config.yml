@@ -1,0 +1,23 @@
+title: Andre Vaillant
+description: Mathematician and former quant, now working on AI safety.
+author: Andre Vaillant
+email: av501@cantab.ac.uk
+url: "https://availlant501.github.io"
+baseurl: ""
+
+# Edit these, then they appear in the header/footer automatically
+links:
+  github: "https://github.com/availlant501"
+  linkedin: ""   # add your LinkedIn URL here to show it in the footer
+
+permalink: /writing/:year/:title/
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
