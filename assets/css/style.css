@@ -52,7 +52,6 @@ a:hover { text-decoration-thickness: 2px; }
 .site-header nav a { color: var(--muted); text-decoration: none; }
 .site-header nav a:hover, .site-header nav a[aria-current="page"] { color: var(--ink); }
 .site-header nav a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--accent); }
-.site-header nav .soon { color: var(--muted); opacity: .6; cursor: default; }
 
 /* Hero */
 .hero { margin-bottom: 3.5rem; }

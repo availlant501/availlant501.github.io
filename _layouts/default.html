@@ -17,8 +17,9 @@
   <header class="site-header">
     <a class="site-name" href="{{ '/' | relative_url }}">Andre Vaillant</a>
     <nav aria-label="Main">
+      <a href="{{ '/projects/' | relative_url }}" {% if page.url == '/projects/' %}aria-current="page"{% endif %}>Projects</a>
       <a href="{{ '/writing/' | relative_url }}" {% if page.url contains '/writing/' %}aria-current="page"{% endif %}>Writing</a>
-      <span class="soon">CV coming soon</span>
+      <a href="{{ '/cv/' | relative_url }}" {% if page.url == '/cv/' %}aria-current="page"{% endif %}>CV</a>
     </nav>
   </header>
 

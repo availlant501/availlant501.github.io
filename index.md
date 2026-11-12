@@ -16,7 +16,7 @@ title: Home
 
 <section class="bio" markdown="1">
 
-I studied maths at Cambridge and spent a few years in quant research.
+I studied maths at Cambridge, specialising in probability, then machine learning at UCL. After that I spent a few years as a quant researcher.
 
 Outside work I write songs, play in a band, train BJJ and boulder.
 

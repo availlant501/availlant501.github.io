@@ -13,7 +13,7 @@ A minimal Jekyll site that GitHub Pages builds automatically. No theme, no build
 
 - [ ] Edit `_config.yml`: your GitHub and LinkedIn links.
 - [ ] Rewrite the bio in `index.md` in your own words.
-- [ ] When ready, add your CV as `assets/Andre_Vaillant_CV.pdf` (web copy, no phone number) and swap the "CV coming soon" text in `_layouts/default.html` back to a link.
+- [ ] When ready, add your CV as `assets/Andre_Vaillant_CV.pdf` (web copy, no phone number) and replace the text in `cv.md` with a link to it.
 - [ ] Optional: add a one-line result to the BCI project in `projects.md`.
 
 ## Writing a post
